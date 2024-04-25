@@ -1,4 +1,4 @@
-# Nome da Empresa: Tech Innovate Solutions
+# Nome da Empresa: Tech Solutions
 
 ![alt text](logo3.png)
 
